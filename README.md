@@ -12,5 +12,7 @@ For example, "two dollars" should be converted to $2. Abbreviations spoken as "C
  >>sp2wr.convert_sp_to_wr()
  >>
  two dollars
+ 
  The input Spoken English Paragraph:two dollars
+ 
  Converted Written English Paragraph: $2
