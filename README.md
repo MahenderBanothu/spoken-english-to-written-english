@@ -6,7 +6,9 @@ For example, "two dollars" should be converted to $2. Abbreviations spoken as "C
 
 # Usage
  >>python3
+ 
  >>from setwe import sp2wr
+ 
  >>sp2wr.convert_sp_to_wr()
  >>
  two dollars
